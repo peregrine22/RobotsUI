@@ -19,7 +19,7 @@ This project is an Unreal Engine application that focuses on the Common UI. The 
 
 ## Requirements
 
-- **Unreal Engine**: Version 4.3 or higher.
+- **Unreal Engine**: Version 5.3 or higher.
 - **Development Platform**: Windows.
 - **Additional Plugins**: Ensure the Common UI plugin is enabled in your Unreal Engine project.
 

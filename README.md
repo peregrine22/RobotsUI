@@ -13,7 +13,7 @@ This project is an Unreal Engine application that focuses on the Common UI. The 
 
 ## Demo
 
-[![Demo Video](https://github.com/peregrine22/RobotsUI/blob/master/robotui-demo-thumbnail.png)](https://drive.google.com/file/d/1xODle_63179GkkWnp72zakOqp4ke48lt/view?usp=sharing)
+[![Demo Video](https://github.com/peregrine22/RobotsUI/blob/master/robotui-demo-thumbnail.png)](https://youtu.be/A5TdQjhGOZQ)
 
 *Click above to watch the demo video.*
 
